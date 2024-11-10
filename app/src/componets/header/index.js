@@ -11,7 +11,7 @@ function Header() {
 
             <div className='hidden md:flex ' id='navbar-default' >
                 <ul className='md:flex justify-between items-center md:text-xl font-bold'>
-                    <li className='text-center p-4 hover:bg-stone-900 hover:text-teal-400 focus:outline-none focus:ring-2 focus:ring-tael-400 '><a >Home</a></li>
+                    <li className='text-center p-4 hover:bg-stone-900 hover:text-teal-400 focus:outline-none focus:ring-2 focus:ring-tael-400 '><a >HOME</a></li>
                     <li className='text-center p-4 hover:bg-stone-900 hover:text-teal-400 focus:outline-none focus:ring-2 focus:ring-tael-400 '><a>ABOUT DADAJI</a></li>
                     <li className='text-center p-4 hover:bg-stone-900 hover:text-teal-400 focus:outline-none focus:ring-2 focus:ring-tael-400 '><a>EVENTS</a></li>
                     <li className='text-center p-4 hover:bg-stone-900 hover:text-teal-400 focus:outline-none focus:ring-2 focus:ring-tael-400 '><a>CONTACT</a></li>
