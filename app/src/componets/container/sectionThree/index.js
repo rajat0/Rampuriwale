@@ -1,11 +1,8 @@
 'use client'
 import Image from 'next/image'
 import React from 'react'
-import { Swiper, SwiperSlide } from 'swiper/react'
-import { Autoplay } from 'swiper/modules'
 import about from "../../../assets/about.png"
-import 'swiper/css';
-import '/Users/rajat/Desktop/sportanalytik/src/App.css'
+
 
 
 function ProductSlider() {
